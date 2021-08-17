@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilini-deshika&show_icons=true&locale=en&layout=compact" alt="thilini-deshika" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thilini-deshika&show_icons=true&locale=en" alt="thilini-deshika" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilini-deshika&show_icons=true&locale=en" alt="thilini-deshika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilini-deshika&" alt="thilini-deshika" /></p>
