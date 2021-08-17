@@ -24,6 +24,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
+💬 [Image Classification with Azure Custom Vision Service](https://medium.com/@thilini-deshika/image-classification-with-azure-custom-vision-service-3ded17505348)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
