@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thilini Deshika</h1>
+<h1 align="center">Hi, I'm Thilini Deshika 👋</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilini-deshika&label=Profile%20views&color=0e75b6&style=flat" alt="thilini-deshika" /> </p>
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love lyrics writing & reporting**
 
-### Blogs posts
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
