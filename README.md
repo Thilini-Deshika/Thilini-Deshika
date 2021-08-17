@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love lyrics writing & reporting**
 
-### Blog Posts
+### Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 
