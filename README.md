@@ -51,9 +51,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilini-deshika&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thilini-deshika" /></p>
 
 
-<a href="https://github.com/thilini-deshika/github-readme-stats"><img alt="Thiini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thilini-deshika&show_icons=true&count_private=true&theme=nightowl&hide_border=true" /></a>
+<a href="https://github.com/thilini-deshika/github-readme-stats"><img alt="Thiini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thilini-deshika&show_icons=true&count_private=true&theme=nightowl" /></a>
 <a href="https://github-readme-streak-stats.herokuapp.com"><img alt="Thilini's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thilini-deshika&count_private=true&theme=nightowl" /></a>
     
 
-
-[![Thilini's github activity graph](https://activity-graph.herokuapp.com/graph?username=thilini-deshika&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true&hide_border=true)](https://github.com/thilini-deshik/github-readme-activity-graph)
+[![Thilini's github activity graph](https://activity-graph.herokuapp.com/graph?username=thilini-deshika&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/thilini-deshik/github-readme-activity-graph)
