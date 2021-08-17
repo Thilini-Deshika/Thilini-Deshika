@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@thilini-deshika)
 
-- 📫 How to reach me [Gmail](thilinideshika1227@gmail.com)
+- 📫 How to reach me [Gmail](mailto:thilinideshika1227@gmail.com)
 
 - 📄 Know about my experiences [See My Resume](https://thilinideshika.me/cv.pdf)
 
