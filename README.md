@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilini-deshika&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="thilini-deshika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilini-deshika&count_private=true&show_icons=true&locale=en&theme=nightowl" alt="thilini-deshika" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thilini-deshika&count_private=true&show_icons=true&locale=en&theme=nightowl" alt="thilini-deshika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilini-deshika&count_private=true&theme=nightowl" alt="thilini-deshika" /></p>
 
