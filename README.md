@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://thilinideshika.me/"> Thilini Deshika</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h1>
+<h1 align="center">Hi, I'm <a href="https://thilinideshika.me/"> Thilini Deshika 👋</a> </h1>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
 <h3 align="center">Computer Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilini-deshika&label=Profile%20views&color=0e75b6&style=flat" alt="thilini-deshika" /> <a href="https://github.com/thilini-deshika?tab=followers"><img src="https://img.shields.io/github/followers/thilini-deshika?label=Followers&style=social" alt="GitHub Badge"></a></p>
