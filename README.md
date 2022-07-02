@@ -56,4 +56,5 @@
 <a href="https://github-readme-streak-stats.herokuapp.com"><img alt="Thilini's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thilini-deshika&count_private=true&theme=nightowl" /></a>
     
 
-[![Thilini's github activity graph](https://activity-graph.herokuapp.com/graph?username=thilini-deshika&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/thilini-deshik/github-readme-activity-graph)
+<!-- [![Thilini's github activity graph](https://activity-graph.herokuapp.com/graph?username=thilini-deshika&bg_color=011627&color=c792ea&line=7fdbca&point=ffeb95&area=true)](https://github.com/thilini-deshik/github-readme-activity-graph)
+ -->
