@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilini-deshika&label=Profile%20views&color=0e75b6&style=flat" alt="thilini-deshika" /> <a href="https://github.com/thilini-deshika?tab=followers"><img src="https://img.shields.io/github/followers/thilini-deshika?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilini-deshika&theme=juicyfresh" alt="thilini-deshika" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilini-deshika&theme=juicyfresh" alt="thilini-deshika" /></a> </p> -->
 
 - 🔭 I’m currently studying at [University of Peradeniya](https://www.pdn.ac.lk/)
 
