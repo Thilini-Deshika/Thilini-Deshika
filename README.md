@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://thilinideshika.me/"> Thilini Deshika 👋</a> </h1>
+<h1 align="center">Hi, I'm <a href="https://thilini-deshika.github.io/"> Thilini Deshika 👋</a> </h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> -->
 
@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking to collaborate on **open source machine learning projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://thilinideshika.me/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://thilini-deshika.github.io)
 
 - 📝 I'm writing articles on [Medium](https://medium.com/@thilini-deshika)
 
 - 📫 How to reach me [Gmail](mailto:thilinideshika1227@gmail.com)
 
-- 📄 Know about my experiences [See My Resume](https://thilinideshika.me/cv.pdf)
+- 📄 Know about my experiences [See My Resume](https://thilini-deshika.github.io/cv.pdf)
 
 - ⚡ Fun fact **I love lyrics writing & reporting**
 
